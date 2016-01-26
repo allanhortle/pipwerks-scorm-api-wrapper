@@ -1,6 +1,6 @@
 # Pipwerks SCORM API Wrapper
 
-It's a module wrapper for the wondreful pipwerks api wrapper
+It's a module wrapper for the wonderful [Pipwerks] api wrapper.
 
 ```
 npm install --save pipwerks-scorm-api-wrapper
@@ -96,4 +96,4 @@ Displays error messages when in debug mode.
 
 
 
-https://github.com/pipwerks/scorm-api-wrapper
+[Pipwerks]: https://github.com/pipwerks/scorm-api-wrapper
