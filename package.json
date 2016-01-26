@@ -1,6 +1,6 @@
 {
   "name": "pipwerks-scorm-api-wrapper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Module wrapper for the Pipwerks SCORM API Wrapper",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,8 @@
     "build": "webpack ./src/index.js index.js"
   },
   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/allanhortle/pipwerks-scorm-api-wrapper"
+    "type": "git",
+    "url": "git+https://github.com/allanhortle/pipwerks-scorm-api-wrapper"
   },
   "author": "Allan Hortle",
   "license": "ISC",
