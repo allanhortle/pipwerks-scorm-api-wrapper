@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack ./src/index.js index.js"
   },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/allanhortle/pipwerks-scorm-api-wrapper"
+  },
   "author": "Allan Hortle",
   "license": "ISC",
   "dependencies": {
