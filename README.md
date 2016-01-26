@@ -2,7 +2,11 @@
 
 It's a module wrapper for the wondreful pipwerks api wrapper
 
+```
+npm install --save pipwerks-scorm-api-wrapper
+```
 
+## Example
 ```js
 import scorm from 'pipwerks-scorm-api-wrapper';
 
