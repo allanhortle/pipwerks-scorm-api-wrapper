@@ -1,4 +1,4 @@
-/******/ (function(modules) { // webpackBootstrap
+(function(e, a) { for(var i in a) e[i] = a[i]; }(exports, /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
 
@@ -896,10 +896,8 @@
 /* 1 */
 /***/ function(module, exports, __webpack_require__) {
 
-	var piperks = __webpack_require__(0);
-
-	module.exports = pipwerks; 
+	module.exports = __webpack_require__(0);
 
 
 /***/ }
-/******/ ]);
+/******/ ])));
